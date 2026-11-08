@@ -1,0 +1,9 @@
+[
+  {
+    "slug": "llm-weight-edit-interpretability",
+    "title": "A hand-written answer key inside a real model",
+    "date": "2026-11-07",
+    "tag": "Interpretability",
+    "summary": "We wrote a calculator into Qwen2.5-0.5B by hand, so we know what every one of its weights is for. Then we pointed activation patching, attribution patching, integrated gradients and the logit lens at it to see what they would find."
+  }
+]

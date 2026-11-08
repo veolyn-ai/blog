@@ -1,0 +1,40 @@
+Content license: CC BY 4.0
+==========================
+
+Copyright (c) 2026 Veolyn AI
+
+The written and visual content in this repository is licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You are free to share (copy and redistribute the material in any medium or
+format) and adapt (remix, transform, and build upon the material) for any
+purpose, including commercially, provided that you:
+
+  * give appropriate credit to Veolyn AI,
+  * link to the license, and
+  * indicate whether changes were made.
+
+  License summary: https://creativecommons.org/licenses/by/4.0/
+  Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Suggested attribution:
+
+  "A hand-written answer key inside a real model" by Veolyn AI, licensed CC BY 4.0.
+  Source: https://veolyn-ai.github.io/blog/llm-weight-edit-interpretability/
+
+Scope
+-----
+
+Covered by this license:
+
+  * the blog posts under <slug>/, including their figures, tables and data;
+  * the site copy in index.html, posts/index.html, 404.html and posts.json;
+  * the images under assets/ and <slug>*/.
+
+Not covered by this license:
+
+  * Source code (build.py, assets/site.css) is licensed under the MIT
+    License; see LICENSE.
+  * The Geist fonts in assets/fonts/ and <slug>*/fonts/ are licensed under
+    the SIL Open Font License 1.1; see the OFL.txt files in those
+    directories.

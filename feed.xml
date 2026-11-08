@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Veolyn AI</title>
+  <link rel="alternate" type="text/html" href="https://veolyn-ai.github.io/blog/"/>
+  <link rel="self" type="application/atom+xml" href="https://veolyn-ai.github.io/blog/feed.xml"/>
+  <id>https://veolyn-ai.github.io/blog/</id>
+  <updated>2026-11-07T00:00:00Z</updated>
+  <author><name>Veolyn Research</name></author>
+  <entry>
+    <title>A hand-written answer key inside a real model</title>
+    <link href="https://veolyn-ai.github.io/blog/llm-weight-edit-interpretability/"/>
+    <id>https://veolyn-ai.github.io/blog/llm-weight-edit-interpretability/</id>
+    <updated>2026-11-07T00:00:00Z</updated>
+    <summary>We wrote a calculator into Qwen2.5-0.5B by hand, so we know what every one of its weights is for. Then we pointed activation patching, attribution patching, integrated gradients and the logit lens at it to see what they would find.</summary>
+  </entry>
+</feed>
